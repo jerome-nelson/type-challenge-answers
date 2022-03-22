@@ -10,4 +10,4 @@ To know what I don't know about TypeScript
 1. Can access array properties using syntax like so:
     - `T["length"]` - will dynamically return length of literal array type
     - `T[number]` - dynamic reference to array values
-2. Extends can be used as a ternary operator
+2. Extends can be used as a strict equality operator
